@@ -1,6 +1,6 @@
 <!-- Trungquandev -->
 <a href="#" target="_blank">
-  <img src="svg/trungquandev.svg" width="1200" alt="trungquandev-official" />
+  <img src="svg/nyancat.svg" width="1200" alt="khai" />
 </a>
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
@@ -22,11 +22,13 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=FFFFFF" alt="Express.js logo" title="Express.js" height="25" /></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/NestJs-282C34?logo=nestjs&logoColor=E0234E" alt="NestJs logo" title="NestJs" height="25" /></span>
+&nbsp;
 <span><img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css&logoColor=38B2AC" alt="TailwindCSS logo" title="TailwindCSS" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Spring%20boost-282C34?logo=springboot&logoColor=#6DB33F" alt="Spring Boost logo" title="Spring Boost" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Spring%20boost-282C34?logo=springboot&logoColor=6DB33F" alt="Spring Boost logo" title="Spring Boost" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" /></span>
 &nbsp;
